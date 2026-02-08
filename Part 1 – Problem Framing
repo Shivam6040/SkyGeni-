@@ -13,16 +13,16 @@ Ans.2) The key questions should be-
 
 Q.3) What metrics matter most for diagnosing win rate issues?
 Ans.3) The metrics are - 
-       - Stage Conversion Rate (drop-offs by stage)
-       - Sales Cycle Length (won vs lost)
-       - Deal Slippage Rate (deals not closing on time)
-       - Win Rate by Segment (industry / product / lead source)
-       - Pipeline Quality, not just volume
+       - Stage Conversion Rate (drop-offs by stage).
+       - Sales Cycle Length (won vs lost).
+       - Deal Slippage Rate (deals not closing on time).
+       - Win Rate by Segment (industry / product / lead source).
+       - Pipeline Quality, not just volume.
 
 Q.4) What assumptions are you making about the data or business?
 Ans.4) The assumptions are - 
-      - Deal stages follow a roughly consistent funnel
-      - Historical win/loss patterns are indicative of future risk
-      - Deal metadata (industry, lead source, product) meaningfully affects outcomes
-      - Sales behavior has not radically changed in the last quarter
+      - Deal stages follow a roughly consistent funnel.
+      - Historical win/loss patterns are indicative of future risk.
+      - Deal metadata (industry, lead source, product) meaningfully affects outcomes.
+      - Sales behavior has not radically changed in the last quarter.
 
