@@ -1,0 +1,28 @@
+Q.1) What do you think is the real business problem here?
+Ans.1) The core problem is declining sales effectiveness, not lack of demand. Although pipeline volume is healthy, the company is:
+       Converting fewer deals into wins.
+       Potentially pursuing lower-quality or riskier deals.
+       Lacking visibility into why deals are failing and where to intervene.
+
+Q.2) What key questions should an AI system answer for the CRO?
+Ans.2) The key questions should be- 
+       - Where exactly is win rate deteriorating? Is it by industry, region, product, rep, deal size
+       - Are we losing deals earlier or later in the funnel?
+       - Which deals in the current pipeline are most at risk and the reason behind that?
+       - Which controllable actions would improve outcomes? Like Rep coaching, better qualification, pricing or product focus?
+
+Q.3) What metrics matter most for diagnosing win rate issues?
+Ans.3) The metrics are - 
+       - Stage Conversion Rate (drop-offs by stage)
+       - Sales Cycle Length (won vs lost)
+       - Deal Slippage Rate (deals not closing on time)
+       - Win Rate by Segment (industry / product / lead source)
+       - Pipeline Quality, not just volume
+
+Q.4) What assumptions are you making about the data or business?
+Ans.4) The assumptions are - 
+      - Deal stages follow a roughly consistent funnel
+      - Historical win/loss patterns are indicative of future risk
+      - Deal metadata (industry, lead source, product) meaningfully affects outcomes
+      - Sales behavior has not radically changed in the last quarter
+
